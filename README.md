@@ -40,10 +40,3 @@ This project implements a classic Connect Four game with separate clients for pl
 
 * This is a development project and might require further configuration depending on your environment.
 * Additional features and functionalities can be implemented based on your needs.
-
-**Further Notes:**
-
-* Consider adding instructions on how to install Node.js and npm if your target audience may not have them pre-installed.
-* You can mention any specific libraries or frameworks used within the project (e.g., Express for the server, p5.js libraries for visuals).
-* Include a license file if you intend to share your code publicly.
-* This is a basic example, and you can customize the readme to include more details like features under development, known issues, and contribution guidelines.
